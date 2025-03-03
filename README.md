@@ -1,7 +1,7 @@
 # Patipan Tongsang
 
 🎯 **Data Engineer | Data Analyst | Business Intelligence**
-📍  **Bangkok, Thailand**  
+📍 **Bangkok, Thailand**  
 📧 **j.patipan.tongsang@gmail.com**
 ---
 
