@@ -2,9 +2,7 @@
 
 🎯 **Data Engineer | Data Analyst**  
 📍 Bangkok, Thailand  
-📧 j.patipan.tongsang@gmail.com  
-🔗 [Portfolio](https://Jpatipan.github.io)  
-
+📧 j.patipan.tongsang@gmail.com
 ---
 
 💼 **ประสบการณ์ทำงาน**  
