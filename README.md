@@ -1,8 +1,8 @@
 # Patipan Tongsang
 
-🎯 ** Data Engineer | Data Analyst | Business Intelligence **
-📍  Bangkok, Thailand  
-📧 j.patipan.tongsang@gmail.com
+🎯 **Data Engineer | Data Analyst | Business Intelligence**
+📍  **Bangkok, Thailand**  
+📧 **j.patipan.tongsang@gmail.com**
 ---
 
 💼 **ประสบการณ์ทำงาน**  
